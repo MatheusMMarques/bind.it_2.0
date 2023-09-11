@@ -25,7 +25,6 @@ body{
 }
 
 div.info{ /* bloco branco */
-    font-family: 'Press Start 2P', cursive;
     margin-top: 20px;
     font-size: 20px;
     margin-left: 10rem;
@@ -55,7 +54,6 @@ div.info{ /* bloco branco */
     border-radius: 10%;
     box-shadow: black -5px 13px 17px 1px;
 }
-
 
 div.button{
     display: flex;
@@ -185,6 +183,34 @@ footer{ /* rodapé*/
     .button button{
         margin: 0 3px;
         width: 200px;
+       }
+}
+
+@media screen and (max-width: 768px) {
+    div.container_2 img{
+        width: 50px;
+        height: 50px;
+        padding: 3px;
+        box-shadow: black -3px 7px 13px 1px;
+    }
+
+    div.info{
+        width: 450px;
+        height: 240px;
+    }
+
+    div.info h1{
+        font-size: 20px;
+    }
+
+    .video video{
+        width: 600px;
+    }
+
+    .button button{
+        margin: 0 2px;
+        width: 190px;
+        height: 80px;
        }
 }
 
