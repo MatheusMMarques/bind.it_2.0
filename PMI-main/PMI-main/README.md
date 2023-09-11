@@ -14,5 +14,3 @@ Nome do Projeto: Bind.it
 🧑‍💻👩‍💻 Equipe: Gabriel Ache, Matheus Marques e Vitor Piva.
 
 🛠️ Recursos/Tecnologias Utilizados: html, css e figma.
-
-link das pages: https://gabrielache.github.io/PMI/
