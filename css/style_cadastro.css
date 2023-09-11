@@ -103,13 +103,13 @@ div.container_4 button{
     text-overflow: unset;
 } 
 
-::-webkit-scrollbar{
+::-webkit-scrollbar{ /* scroll da tela*/
     width: 10px;
-    background-color: #77ee07;
+    background-color: #1f165f;
 }
 
-::-webkit-scrollbar-thumb{
-    background-color: #1f165f;
+::-webkit-scrollbar-thumb{ /* barra do scroll da tela*/
+    background-color: #100d2d;
 }
 
 @media screen and (max-width: 579px) {
