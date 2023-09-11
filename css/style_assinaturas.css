@@ -148,4 +148,8 @@ footer{
     .cabecalho img{
         width: 250px;
     }
+
+    .voltar button{
+        margin-top: 2rem;
+    }
 }
